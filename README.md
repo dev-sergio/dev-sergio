@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-Meu nome é Sergio Junior, sou natural do Brasil, Eu trabalho com programação Back-End desde 2019, atualmente estou trabalhando com Java em uma empresa de engenharia reversa e documentação de softwares. Tenho focado em alguns projetos pessoais e espero que logo possa compartilhar com o mundo.
+Meu nome é Sergio Junior, sou natural do Brasil, Eu trabalho com programação Back-End desde 2019, mas atualmente estou trabalhando com SQL e Front-End em uma empresa de engenharia reversa e documentação de softwares. Tenho focado em alguns projetos pessoais e espero que logo possa compartilhar com o mundo.
 
 No meu tempo livre, gosto de assistir filmes e series, conversar com amigos, jogar basquete e assistir aos jogos do Corinthians (tv ou estádio).
 
