@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-Meu nome é Sergio Junior, sou natural do Brasil, Eu trabalho com programação Back-End desde 2019, atualmente estou trabalhando com C# e java. Também tenho usado SQL Server e trabalhando com Front-End (angular e html com css puro). Tenho focado em alguns projetos pessoais, estudado bastente java, flutter (dart) e um pouco de ReactJS e espero que logo possa compartilhar com o mundo, todo conhecimento adquirido.
+Meu nome é Sergio Junior, sou natural do Brasil, trabalho com programação Back-End desde 2019, atualmente estou trabalhando com C# e java e um pouco de Python. Tenho focado em alguns projetos pessoais, estudado bastente java, flutter (dart) e um pouco de ReactJS e espero que logo possa compartilhar com o mundo, todo conhecimento adquirido.
 
 No meu tempo livre, gosto de assistir filmes e series, conversar com amigos, jogar basquete ou volei e assistir aos jogos do Corinthians (tv ou estádio).
 
